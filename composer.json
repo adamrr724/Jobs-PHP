@@ -1,0 +1,10 @@
+{
+    "require": {
+        "silex/silex": "~1.1",
+        "twig/twig": "~1.0",
+        "league/climate": "^3.2",
+        "phpunit/phpunit": "~4.6",
+        "mockery/mockery": "^0.9.4",
+        "mikey179/vfsstrea": "~1.4"
+    }
+}
